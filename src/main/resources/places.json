@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Hoi An",
+    "rating": 4.0,
+    "imageUrl": "https://example.com/hoian.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sai Gon",
+    "rating": 4.5,
+    "imageUrl": "https://example.com/saigon.jpg"
+  }
+]
